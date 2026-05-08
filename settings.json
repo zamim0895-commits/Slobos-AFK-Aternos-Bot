@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "VISIONSMP08.aternos.me",
+    "port": 19321,
     "version": "",
     "try-creative": false
   },
